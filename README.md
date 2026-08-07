@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kyrillos Elia 👋</h1>
-<h3 align="center">Data Analyst | Computer Science Student | Passionate Learner</h3>
+<h3 align="center">BackEnd Developer | Computer Science Student | Passionate Learner</h3>
 
 <p align="center">
   <a href="mailto:popk5398@gmail.com">
@@ -12,15 +12,15 @@
 
 ---
 
-## 🚀 About Me
+🚀 About Me
 
-I'm a Computer Science student at Ain Shams University
-I'm a Data Analyst / Data Science enthusiast with a strong foundation in data analysis, statistics, and problem-solving.
-I’m highly motivated to extract meaningful insights from data and help organizations make data-driven decisions.
-I constantly work on projects involving data cleaning, visualization, and predictive modeling to apply my knowledge in real-world scenarios.
+I'm a fourth-year Computer Science student at Ain Shams University, passionate about Back-End Development and Software Engineering.
 
-I believe in writing clean, reproducible code and building scalable data pipelines.
-I enjoy exploring datasets, understanding patterns, and learning how to use advanced tools and techniques to solve complex problems.
+I enjoy designing and building scalable backend systems, RESTful APIs, and database-driven applications. My primary tech stack includes Java, Node.js, Express.js, MongoDB, SQL, JavaScript, HTML, and CSS.
+
+I believe in writing clean, maintainable, and efficient code while following software engineering best practices. I'm constantly learning new technologies, improving my problem-solving skills, and building real-world projects to strengthen my backend development expertise.
+
+I'm currently seeking opportunities to grow as a Backend Developer and contribute to impactful software products.
 
 ---
 
@@ -36,7 +36,7 @@ class KyrillosElia {
     "Data Analysis & Visualization",
     "Machine Learning Basics",
     "Flutter & Dart for Mobile Apps",
-    "Web Technologies (HTML, CSS, JavaScript, TypeScript, Node.js, Express.js)",
+    "Web Technologies (HTML, CSS, JavaScript, TypeScript, Node.js, Express.js, Java)",
     "Object-Oriented Programming (OOP)",
     "Data Structures & Algorithms"
   };
